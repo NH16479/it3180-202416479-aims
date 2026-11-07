@@ -7,6 +7,12 @@
 ### Added
 - Cart.sort_by_title(), Cart.sort_by_cost()
 - search_by_category() tìm đĩa theo thể loại
+### Fixed
+- search_by_title không phân biệt hoa thường (bản vá 1.0.1, issue #22)
+
+## [1.0.1] - 2026-11-07
+### Fixed
+- search_by_title không phân biệt hoa thường (issue #22)
 ## [1.0.0] - 2026-11-07
 ### Added
 - Gói aims với DigitalVideoDisc và Cart
