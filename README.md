@@ -1,3 +1,6 @@
 # AIMS-mini
 
-Ứng dụng dòng lệnh Python (chỉ dùng thư viện chuẩn) cho môn IT3180.
+Ứng dụng mẫu cho các bài thực hành Quản lý cấu hình phần mềm – IT3180.
+
+- Sinh viên: Nguyễn Hoàng Hải – MSSV 202416479
+- Chạy chương trình: `python main.py`
