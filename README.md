@@ -9,3 +9,8 @@
 ## Cách dùng
 
 - Chạy demo: `python main.py`
+
+## Cấu trúc
+
+- `aims/`: mã nguồn (dvd, cart, search)
+- `docs/`: tài liệu
