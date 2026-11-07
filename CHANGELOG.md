@@ -2,7 +2,7 @@
 
 Định dạng theo Keep a Changelog, đánh số phiên bản theo Semantic Versioning.
 
-## [Unreleased]
+## [1.1.0] - 2026-11-07
 
 ### Added
 - Cart.sort_by_title(), Cart.sort_by_cost()
