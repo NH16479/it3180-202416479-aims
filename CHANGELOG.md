@@ -4,6 +4,11 @@
 
 ## [Unreleased]
 
+
+## [1.0.1] - 2026-11-07
+### Fixed
+- search_by_title không phân biệt hoa thường (issue #22)
+
 ## [1.0.0] - 2026-11-07
 ### Added
 - Gói aims với DigitalVideoDisc và Cart
